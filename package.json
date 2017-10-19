@@ -1,0 +1,50 @@
+{
+  "name": "hjs-content",
+  "version": "1.0.0",
+  "description": "Content management library classes for Hubrisjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-content.git"
+  },
+  "keywords": [
+    "Adapter",
+    "BaseAdapter",
+    "ArrayAdapter",
+    "FixedViewInfo",
+    "HeaderViewListAdapter",
+    "ContentObservable",
+    "ContentObserver",
+    "DataSetObservable",
+    "DataSetObserver",
+    "NotificationRunnable",
+    "Transport",
+    "ForceLoadContentObserver",
+    "LoaderListener",
+    "Loader",
+    "LoadTask",
+    "AsyncTaskLoader",
+    "LoaderCallbacks",
+    "LoaderManager",
+    "LoaderManagerHost",
+    "LoaderInfo",
+    "LoaderManagerImpl"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-content/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-content#readme",
+  "dependencies": {
+    "hjs-collection": "^1.0.0",
+    "hjs-future": "^1.0.0",
+    "hjs-message": "^1.0.0"
+  }
+}
